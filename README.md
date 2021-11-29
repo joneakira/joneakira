@@ -5,10 +5,9 @@
 
   ##
 
-  <div>
-    <a href="https://github.com/joneakira" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joneakira&show_icons=true&theme=synthwave&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneakira&layout=compact&theme=synthwave" />
+  <div style="display: inline_block">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joneakira&show_icons=true&theme=synthwave&count_private=true" />
+    <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneakira&layout=compact&theme=synthwave" />
   </div>
   
   <div style="display: inline_block" ><br>
