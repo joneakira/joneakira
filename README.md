@@ -32,13 +32,10 @@
   ##
   
   <h3>
-    Social and Streaming
+    Social
   </h3>
   
   <div>
-    <a href="https://twitch.tv/joneakira">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
     <a href="https://instagram.com/joneakira">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
@@ -47,6 +44,31 @@
     </a>
     <a href="https://www.linkedin.com/in/jone-akira-7b09a020b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
+  
+  <h3>
+    Streaming on
+  </h3>
+  
+  <div>
+    <a href="https://twitch.tv/joneakira">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+  </div>
+  
+  ### Spotify Playing 🎧
+
+  [<img src="https://spotify-seven-umber.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/780b9c0d8c46458b828bfee1b7af474f)
+
+  
+  <h3>
+    Gaming
+  </h3>
+  
+  <div>
+    <a href="https://steamcommunity.com/profiles/76561198078115716/">
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" >
     </a>
   </div>
   
@@ -67,5 +89,6 @@
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_A2251_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Intel-i5_1038NG7-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   </div>
+  
   
   
