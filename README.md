@@ -21,11 +21,19 @@
     <img align="center" alt="AkiraPython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
     <img align="center" alt="AkiraHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
     <img align="center" alt="AkiraCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+    <img align="center" alt="AkiraCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >
+    <img align="center" alt="AkiraCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
   </div>
   
   ##
   
-  <h3>Social and Streaming</h3>
+  ![Snake animation](https://github.com/joneakira/joneakira/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
+  <h3>
+    Social and Streaming
+  </h3>
   
   <div>
     <a href="https://twitch.tv/joneakira">
@@ -42,4 +50,22 @@
     </a>
   </div>
   
-  ![Snake animation](https://github.com/joneakira/joneakira/blob/output/github-contribution-grid-snake.svg)
+  <h3>
+    Windows PC
+  </h3>
+  
+  <div>
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/Intel-Xeon_E5_2650_V3-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  </div>
+  
+  <h3>
+    MacBook Pro
+  </h3>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Apple-MacBook_Pro_A2251_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
+    <img src="https://img.shields.io/badge/Intel-i5_1038NG7-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  </div>
+  
+  
