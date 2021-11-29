@@ -6,8 +6,8 @@
   ##
 
   <div style="display: inline_block">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joneakira&show_icons=true&theme=synthwave&count_private=true" />
-    <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneakira&layout=compact&theme=synthwave" />
+    <img height="150em" width="430em" src="https://github-readme-stats.vercel.app/api?username=joneakira&show_icons=true&theme=synthwave&count_private=true" />
+    <img height="150em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneakira&layout=compact&theme=synthwave" />
   </div>
   
   <div style="display: inline_block" ><br>
