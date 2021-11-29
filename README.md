@@ -57,11 +57,6 @@
     </a>
   </div>
   
-  ### Spotify Playing 🎧
-
-  [<img src="https://spotify-seven-umber.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/780b9c0d8c46458b828bfee1b7af474f)
-
-  
   <h3>
     Gaming
   </h3>
