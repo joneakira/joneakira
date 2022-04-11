@@ -1,7 +1,7 @@
 ### Today is a good day 👋
 
 - 🔭 I’m currently working on Amico LTDA. as CTO and front-end dev
-- 🌱 I’m currently learning NextJs and AdonisJs
+- 🌱 I’m currently learning NextJs and Spring Boot
 
   ##
 
