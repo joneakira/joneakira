@@ -1,6 +1,6 @@
 ### Today is a good day 👋
 
-- 🔭 Worked as CTO and full-stack developer at Amico LTDA. as CTO and front-end dev
+- 🔭 Worked as CTO and full-stack developer at Amico LTDA.
 - 🌱 I’m currently learning NextJs and Spring Boot
 
   ##
